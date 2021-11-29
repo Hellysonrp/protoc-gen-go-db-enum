@@ -1,0 +1,6 @@
+# my test artifacts
+example.proto
+output
+
+# binary
+protoc-gen-go-db-enum
